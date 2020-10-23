@@ -1,8 +1,8 @@
 # _my-first-webpage_
 
-#### _website, 10/22/20202_
+#### _website 10/22/20202_
 
-#### By _**Jordan Hargreaves, Taylor Walker Scott O'Neil**_
+#### By _**Jordan Hargreaves, Taylor Walker, Scott O'Neil**_
 
 ## Description
 
@@ -29,4 +29,4 @@ _HTML_
 
 *MIT*
 
-Copyright (c) 2020 **_Jordan Hargreaves, Taylor Walker, Scott O'neil**
+Copyright (c) 2020 **Jordan Hargreaves, Taylor Walker, Scott O'neil**
